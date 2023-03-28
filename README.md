@@ -62,7 +62,11 @@ So now we have created our Tenant and at least one Subscription.
 
 <h2>Step 2: Create a Resource Group</h2>
 
-Once within the Azure Portal, in the search bar at the top, type 'Resource Groups' and click on the option with the same name. Click 'Create a Resource Group'. Give the Resource Group a name and choose a region that you would like your virtual machine to exist in depending on your needs and click 'Review + Create'. 
+Once within the Azure Portal, in the search bar at the top, type 'Resource Groups' and click on the option with the same name. 
+
+Click 'Create a Resource Group'. 
+
+Give the Resource Group a name and choose a region that you would like your virtual machine to exist in depending on your needs and click 'Review + Create'. 
 
 </p>
 <br />
@@ -73,7 +77,14 @@ Once within the Azure Portal, in the search bar at the top, type 'Resource Group
 <p>
 
 <h2>Step 3: Create a Storage Account within the Resource Group</h2>
-Return to the search bar, and type 'Storage Accounts'; click on option with the same name; pick a subscription and make sure to use the Resource Group that we created earlier; write a globally unique name for your Storage Account, and again choose a region that makes sense for your needs. Review and create. Under Storage Account, you can now add containers and this will act as a storage space similar to Google Drive.
+
+Return to the search bar, and type 'Storage Accounts'. 
+
+Click on option with the same name. 
+
+Pick a subscription -- make sure to use the Resource Group that we created earlier -- write a globally unique name for your Storage Account, and again choose a region that makes sense for your needs. 
+
+Review and create. Under Storage Account, you can now add containers and this will act as a storage space similar to Google Drive.
 </p>
 <br />
 
@@ -83,7 +94,14 @@ Return to the search bar, and type 'Storage Accounts'; click on option with the 
 <p>
 
 <h2>Step 4: Create a Virtual Machine</h2>
-Type virtual machines in the search bar, click on the option, choose previously created Resource Group, give your virtual machine a name, add a administrator name and password, choose a image (Operating System) for your  e.g. Windows 10, and the size (how many CPUs) you need, agree to the licensing, and review and create.
+
+Type virtual machines in the search bar.
+
+Click on the option, choose the previously created Resource Group. 
+
+Give your virtual machine a name, add a administrator name and password. 
+
+Choose a image (Operating System) for your virtual machine e.g. Windows 10, and the size (how many CPUs) you need; agree to the licensing, and review and create.
 </p>
 <br />
 
@@ -93,7 +111,14 @@ Type virtual machines in the search bar, click on the option, choose previously 
 <p>
 
 <h2>Step 5: Login to your Virtual Machine</h2>
-Search for virtual machines, click on your virtual machine and copy the virtual machine's public IP address. Using Microsoft Remote Desktop (download the app if you're using a Mac), add a PC using the IP address copied. Click on your virtual machine and login using your administrator username and password created in step 4. You have successfully created a virtual machine using Azure. 
+
+Search for virtual machines, click on your virtual machine and copy the virtual machine's public IP address. 
+
+Using Microsoft Remote Desktop (download the app if you're using a Mac), add a PC using the IP address copied. 
+
+Click on your virtual machine and login using your administrator username and password created in step 4. 
+
+You have successfully created a virtual machine using Azure! 
 </p>
 <br />
 
