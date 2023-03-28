@@ -72,7 +72,7 @@ Give the Resource Group a name and choose a region that you would like your virt
 <br />
 
 <p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NuG5pQl.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
