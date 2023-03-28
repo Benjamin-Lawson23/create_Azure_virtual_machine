@@ -55,7 +55,7 @@ So now we have created our Tenant and at least one Subscription.
 <br />
 
 <p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnWYcY0.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
