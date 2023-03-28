@@ -45,7 +45,9 @@ Azure divides its resources into Tenants, Subscriptions, Resource Groups, Azure 
 <h2>Deployment and Configuration Steps</h2>
 
 <h2>Step 1: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account  your credit card Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
+Go the the official Azure website and create and set up an Azure account your credit card Azure will automatically create a subscription for you. 
+
+So now we have created our Tenant and at least one Subscription.
 
 </p>
 <br />
@@ -57,7 +59,9 @@ Go the the official Azure website and create and set up an Azure account  your c
 
 
 <h2>Step 2: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account  your credit card Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
+Go the the official Azure website and create and set up an Azure account using your credit card.
+
+Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
 
 </p>
 <br />
