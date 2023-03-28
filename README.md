@@ -45,7 +45,9 @@ Azure divides its resources into Tenants, Subscriptions, Resource Groups, Azure 
 <h2>Deployment and Configuration Steps</h2>
 
 <h2>Step 1: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account your credit card Azure will automatically create a subscription for you. 
+Go the the official Azure website and create and set up an Azure account using your credit card.
+
+Azure will automatically create a subscription for you. 
 
 So now we have created our Tenant and at least one Subscription.
 
@@ -58,21 +60,9 @@ So now we have created our Tenant and at least one Subscription.
 <p>
 
 
-<h2>Step 2: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account using your credit card.
+<h2>Step 2: Create a Resource Group</h2>
 
-Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-<h2>Step 3: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account  your credit card Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
+Once within the Azure Portal, in the search bar at the top, type 'Resource Groups' and click on the option with the same name. Click 'Create a Resource Group'. Give the Resource Group a name and choose a region that you would like your virtual machine to exist in depending on your needs and click 'Review + Create'. 
 
 </p>
 <br />
@@ -82,9 +72,8 @@ Go the the official Azure website and create and set up an Azure account  your c
 </p>
 <p>
 
-<h2>Step 4: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account  your credit card Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
-
+<h2>Step 3: Create a Storage Account within the Resource Group</h2>
+Return to the search bar, and type 'Storage Accounts'; click on option with the same name; pick a subscription and make sure to use the Resource Group that we created earlier; write a globally unique name for your Storage Account, and again choose a region that makes sense for your needs. Review and create. Under Storage Account, you can now add containers and this will act as a storage space similar to Google Drive.
 </p>
 <br />
 
@@ -93,9 +82,8 @@ Go the the official Azure website and create and set up an Azure account  your c
 </p>
 <p>
 
-<h2>Step 5: Create an Azure account</h2>
-Go the the official Azure website and create and set up an Azure account  your credit card Azure will automatically create a subscription for you. So now we have created our Tenant and at least one Subscription was create
-
+<h2>Step 4: Create a Virtual Machine</h2>
+Type virtual machines in the search bar, click on the option, choose previously created Resource Group, give your virtual machine a name, add a administrator name and password, choose a image (Operating System) for your  e.g. Windows 10, and the size (how many CPUs) you need, agree to the licensing, and review and create.
 </p>
 <br />
 
@@ -103,3 +91,15 @@ Go the the official Azure website and create and set up an Azure account  your c
 <img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<h2>Step 5: Login to your Virtual Machine</h2>
+Search for virtual machines, click on your virtual machine and copy the virtual machine's public IP address. Using Microsoft Remote Desktop (download the app if you're using a Mac), add a PC using the IP address copied. Click on your virtual machine and login using your administrator username and password created in step 4. You have successfully created a virtual machine using Azure. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  <h2>FINISH</h2>
