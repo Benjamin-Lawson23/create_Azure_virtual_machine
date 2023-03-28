@@ -112,9 +112,20 @@ Choose a image (Operating System) for your virtual machine e.g. Windows 10, and 
 <br />
 
 <p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jfgb2XV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
+  <p>
+<img src="https://i.imgur.com/thjqyg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  <p>
+<img src="https://i.imgur.com/0QRyuMb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
 
 <h2>Step 5: Login to your Virtual Machine</h2>
 
