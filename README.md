@@ -89,9 +89,15 @@ Review and create. Under Storage Account, you can now add containers and this wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4934YMk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
+<p>
+<img src="https://i.imgur.com/z7vA0Ez.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>  
+  
 
 <h2>Step 4: Create a Virtual Machine</h2>
 
