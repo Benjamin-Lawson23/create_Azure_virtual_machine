@@ -20,13 +20,13 @@ Paid cloud services such as Azure offer more and varied ways of storing and proc
 
 Azure offers over 600 services, so you can do almost anything you want using Azure. 
 
-<p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <h1>How is Azure structured?</h1>
 
-Azure divides its resources into Tenants, Subscriptions, Resource Groups, Azure Storage Accounts, 
+Azure divides its resources into Tenants, Subscriptions, Resource Groups, and Azure Storage Accounts:
+
+<p>
+<img src="https://i.imgur.com/yn3RXKw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 - The Tenant is representative of your organization 
 - A subscription in Azure is a way to separate costs. Think of it as the different departments in your organization which all have their own budgets. The accounting department may have it's own subscription under the Tenant and the Sales department may have another separate subscription. 
