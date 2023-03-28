@@ -140,7 +140,22 @@ You have successfully created a virtual machine using Azure!
 <br />
 
 <p>
-<img src="https://i.imgur.com/n67WFmt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9EoIrQf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  <p>
+<img src="https://i.imgur.com/5Im1qCG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  <p>
+<img src="https://i.imgur.com/3YYpv4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  <p>
+<img src="https://i.imgur.com/98vrbkw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
